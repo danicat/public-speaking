@@ -34,4 +34,4 @@ The events are organized in reverse chronological order.
 |-------------|------------------|-------|
 | November 11 | [TDC Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2017/index.html#portoalegre) | Golang track organizer |
 | August 10   | [GDG Porto Alegre](https://www.meetup.com/GDG-Porto-Alegre/events/241946465/) | Lead organizer |
-| July 22     | [Women Who Go POA](https://www.meetup.com/Women-Who-Go-Porto-Alegre/events/240611900) | Lead organzier |
+| July 22     | [Women Who Go POA](https://www.meetup.com/Women-Who-Go-Porto-Alegre/events/240611900) | Lead organizer |
