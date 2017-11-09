@@ -23,10 +23,10 @@ The events are organized in reverse chronological order.
 
 ### Workshops
 
-| Date          | Event            | Slide Deck       | Language  | Video |
-|---------------|------------------|------------------|----------|--------|
-| November 19   | [Gophercon Brasil](https://2017.gopherconbr.org/) | Ready to Go: Uma introdução prática a linguagem Go | PT-BR    |        |
-| July 22       | [Women Who Go POA](https://www.meetup.com/Women-Who-Go-Porto-Alegre/events/240611900) | Tutorial and Mentorship | PT-BR | |
+| Date          | Event            | Slide Deck       | Language |
+|---------------|------------------|------------------|----------|
+| November 19   | [Gophercon Brasil](https://2017.gopherconbr.org/) | Ready to Go: Uma introdução prática a linguagem Go | PT-BR |
+| July 22       | [Women Who Go POA](https://www.meetup.com/Women-Who-Go-Porto-Alegre/events/240611900) | Tutorial and Mentorship | PT-BR |
 
 ### Organizer
 
