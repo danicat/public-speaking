@@ -10,8 +10,8 @@ The events are organized in reverse chronological order.
 
 | Date           | Event          | Slide Deck  | Language | Video |
 |----------------|----------------|-------|----------|--------|
-| December 9 | GDG DevFest Recife | _TBD_ | PT-BR | |
-| November 17-19 | [Gophercon Brasil](https://2017.gopherconbr.org/) | Women Who Go: Promovendo a Diversidade e Inclusão na Comunidade Go | PT-BR | - |
+| December 9 | [GDG DevFest Recife](https://devfestxp.com/) | Sistemas de Recomendação com Google Cloud Dataproc | PT-BR | |
+| November 17-19 | [Gophercon Brasil](https://2017.gopherconbr.org/) | [Women Who Go: Promoting Diversity and Inclusion in the Go Community](https://speakerdeck.com/danicat/wwg-promoting-diversity-and-inclusion-in-the-go-community) | EN-US | - |
 | October 6 | [PythonBrasil 2017](http://2017.pythonbrasil.org.br/) | [Big Data com Apache Spark na Globo.com](https://www.slideshare.net/DanielaPetruzalek/big-data-com-apache-spark-na-globocom-80566202) | PT-BR | - |
 | October 3 | [GDG Porto Alegre](https://www.meetup.com/preview/GDG-Porto-Alegre/events/243399100) | [Google Cloud Platform: Um Portal para a Era do Machine Learning](https://www.slideshare.net/DanielaPetruzalek/google-cloud-platform-um-portal-para-a-era-do-machine-learning) | PT-BR | - |
 | September 8-9 | [Hack Town 2017](http://hacktown.com.br/) | [Google Cloud Platform: Um Portal para a Era do Machine Learning](https://www.slideshare.net/DanielaPetruzalek/google-cloud-platform-um-portal-para-a-era-do-machine-learning) | PT-BR | - |
