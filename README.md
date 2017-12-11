@@ -10,6 +10,7 @@ The events are organized in reverse chronological order.
 
 | Date           | Event          | Slide Deck  | Language | Video |
 |----------------|----------------|-------|----------|--------|
+| December 19 | [GDG Porto Alegre](https://www.meetup.com/preview/GDG-Porto-Alegre/) | Ready to Go: Uma Introdução Prática a Linguagem Go | :brazil: | - |
 | December 9 | [GDG DevFest Recife](https://devfestxp.com/) | [Sistemas de Recomendação com Google Cloud Dataproc](https://speakerdeck.com/danicat/sistemas-de-recomendacao-com-google-dataproc) | :brazil: | - |
 | November 17-19 | [Gophercon Brasil](https://2017.gopherconbr.org/) | [Women Who Go: Promoting Diversity and Inclusion in the Go Community](https://speakerdeck.com/danicat/wwg-promoting-diversity-and-inclusion-in-the-go-community) | :us: | - |
 | October 6 | [PythonBrasil 2017](http://2017.pythonbrasil.org.br/) | [Big Data com Apache Spark na Globo.com](https://www.slideshare.net/DanielaPetruzalek/big-data-com-apache-spark-na-globocom-80566202) | :brazil: | - |
