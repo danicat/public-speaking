@@ -4,13 +4,28 @@ The objective of this repo is to consolidate in a single place all my participat
 
 The events are organized in reverse chronological order.
 
+## 2018
+
+### Talks
+
+| Date           | Event          | Slide Deck  | Language | Video |
+|----------------|----------------|-------|----------|--------|
+| March 1-3 | Lesbians Who Tech + Allies San Francisco| TBD | :us: | - |
+| January 11 | [GDG Porto Alegre 2018-1](https://www.meetup.com/GDG-Porto-Alegre/events/245664824/) | Ready to Go: Uma Introdução Prática a Linguagem Go | :brazil: | - |
+
+### Organizer
+
+| Date        | Event            | Role  |
+|-------------|------------------|-------|
+| January 11 | [GDG Porto Alegre 2018-1](https://www.meetup.com/GDG-Porto-Alegre/events/245664824/) | Lead Organizer |
+
+
 ## 2017
 
 ### Talks
 
 | Date           | Event          | Slide Deck  | Language | Video |
 |----------------|----------------|-------|----------|--------|
-| December 19 | [GDG Porto Alegre 2017-3](https://www.meetup.com/GDG-Porto-Alegre/events/245664824/) | Ready to Go: Uma Introdução Prática a Linguagem Go | :brazil: | - |
 | December 9 | [GDG DevFest Recife](https://devfestxp.com/) | [Sistemas de Recomendação com Google Cloud Dataproc](https://speakerdeck.com/danicat/sistemas-de-recomendacao-com-google-dataproc) | :brazil: | - |
 | November 17-19 | [Gophercon Brasil](https://2017.gopherconbr.org/) | [Women Who Go: Promoting Diversity and Inclusion in the Go Community](https://speakerdeck.com/danicat/wwg-promoting-diversity-and-inclusion-in-the-go-community) | :us: | - |
 | October 6 | [PythonBrasil 2017](http://2017.pythonbrasil.org.br/) | [Big Data com Apache Spark na Globo.com](https://www.slideshare.net/DanielaPetruzalek/big-data-com-apache-spark-na-globocom-80566202) | :brazil: | - |
@@ -33,7 +48,6 @@ The events are organized in reverse chronological order.
 
 | Date        | Event            | Role  |
 |-------------|------------------|-------|
-| December 19 | [GDG Porto Alegre 2017-3](https://www.meetup.com/GDG-Porto-Alegre/events/245664824/) | Lead Organizer |
 | November 11 | [TDC Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2017/index.html#portoalegre) | Golang track organizer |
 | October 3   | [GDG Porto Alegre Meetup 2017-2](https://www.meetup.com/preview/GDG-Porto-Alegre/events/243399100) | Lead Organizer |
 | August 10   | [GDG Porto Alegre Meetup 2017-1](https://www.meetup.com/GDG-Porto-Alegre/events/241946465/) | Lead Organizer |
