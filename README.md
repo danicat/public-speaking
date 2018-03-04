@@ -10,7 +10,7 @@ The events are organized in reverse chronological order.
 
 | Date           | Event          | Slide Deck  | Language | Video |
 |----------------|----------------|-------|----------|--------|
-| March 1-3 | Lesbians Who Tech + Allies San Francisco| TBD | :us: | - |
+| March 1-3 | [Lesbians Who Tech + Allies San Francisco] | [Overcoming Impostor Syndrome](https://speakerdeck.com/danicat/overcoming-impostor-syndrome) | :us: | - |
 | January 11 | [GDG Porto Alegre 2018-1](https://www.meetup.com/GDG-Porto-Alegre/events/245664824/) | Ready to Go: Uma Introdução Prática a Linguagem Go | :brazil: | - |
 
 ### Organizer
