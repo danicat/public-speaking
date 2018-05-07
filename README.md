@@ -10,8 +10,10 @@ The events are organized in reverse chronological order.
 
 | Date           | Event          | Slide Deck  | Language | Video |
 |----------------|----------------|-------|----------|--------|
-| April 14 | [WTM IWD'18 Porto Alegre](https://www.meetup.com/GDG-Porto-Alegre/events/248651233/) | - | :brazil: | - |
-| March 24 | [Women Techmakers IWD'18 Belo Horizonte](https://www.womentechmakers.com/iwd18) | - | :brazil: | - |
+| August 3 | Gophercon UK | The Best Feature of Go | :us: | - |
+| May 10 | TEDx Niterói | - | :brazil: | - |
+| March 24 | [Women Techmakers IWD'18 Belo Horizonte](https://www.womentechmakers.com/iwd18) | Spotlight Talk | :brazil: | - |
+| March 23 | WTM Leads Summit Brazil | Orientação Sexual e Identidade de Gênero | :brazil: | - |
 | March 1-3 | [Lesbians Who Tech + Allies San Francisco](https://lesbianswhotech.org/sanfrancisco2018/) | [Overcoming Impostor Syndrome](https://www.slideshare.net/DanielaPetruzalek/overcoming-impostor-syndrome-89548007) | :us: | - |
 | January 11 | [GDG Porto Alegre 2018-1](https://www.meetup.com/GDG-Porto-Alegre/events/245664824/) | [Ready to Go: Uma Introdução Prática a Linguagem Go](https://github.com/danicat/ready2go) | :brazil: | - |
 
@@ -19,8 +21,10 @@ The events are organized in reverse chronological order.
 
 | Date        | Event            | Role  |
 |-------------|------------------|-------|
+| April 14 | [WTM IWD'18 Porto Alegre](https://www.meetup.com/GDG-Porto-Alegre/events/248651233/) | Lead Organizer |
+| February 15 | [GDG Porto Alegre Cloud Study Jam](https://www.meetup.com/GDG-Porto-Alegre/events/247266147/) | Organizer |
+| February 13 | [GDG Porto Alegre Cloud Study Jam](https://www.meetup.com/GDG-Porto-Alegre/events/248205352/) | Lead Organizer |
 | January 11 | [GDG Porto Alegre 2018-1](https://www.meetup.com/GDG-Porto-Alegre/events/245664824/) | Lead Organizer |
-
 
 ## 2017
 
