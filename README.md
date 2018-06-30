@@ -11,8 +11,8 @@ The events are organized in reverse chronological order.
 | Date           | Event          | Slide Deck  | Language | Video |
 |----------------|----------------|-------|----------|--------|
 | August 3 | [Gophercon UK 2018](https://www.golanguk.com/) | The Best Feature of Go | :us: | - |
-| June 30 | [RSJS 2018](https://braziljs.org/eventos/rsjs-2018/) | TBD | :brazil: | - |
-| June 16 | Pyladies Especial 2 Anos | Submissão de palestras e participação na Python Brasil | :brazil: | - |
+| June 30 | [RSJS 2018](https://braziljs.org/eventos/rsjs-2018/) | [10 Motivos para o JS Alegrar o seu Dia](https://docs.google.com/presentation/d/1h_y4hwFfMY6Tuy42V5d87tJrGqpED_2qbSg8atO0eqI/edit?usp=sharing) | :brazil: | - |
+| June 16 | Pyladies Especial 2 Anos | Palestrando na Python Brasil 2018 | :brazil: | - |
 | June 5 | [Technology Radar Vol.18](https://www.facebook.com/events/168675120465103/) | [Google Cloud Platform](https://speakerdeck.com/danicat/techradar-vol-dot-18-google-cloud-platform?slide=1) | :brazil: | - |
 | May 10 | [TEDx Niterói](https://tedxniteroi.com) | - | :brazil: | _soon_ |
 | March 24 | [Women Techmakers IWD'18 Belo Horizonte](https://www.womentechmakers.com/iwd18) | Spotlight Talk | :brazil: | - |
