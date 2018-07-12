@@ -8,18 +8,18 @@ The events are organized in reverse chronological order.
 
 ### Talks
 
-| Date           | Event          | Slide Deck  | Language | Video |
-|----------------|----------------|-------|----------|--------|
-| August 3 | [Gophercon UK 2018](https://www.golanguk.com/) | The Best Feature of Go | :us: | - |
-| July 13 | [FISL18](http://fisl18.softwarelivre.org/index.php/en/) | Big Data com Apache Spark | :brazil: | - |
-| June 30 | [RSJS 2018](https://braziljs.org/eventos/rsjs-2018/) | [10 Motivos para o JS Alegrar o seu Dia](https://docs.google.com/presentation/d/1h_y4hwFfMY6Tuy42V5d87tJrGqpED_2qbSg8atO0eqI/edit?usp=sharing) | :brazil: | - |
-| June 16 | Pyladies Especial 2 Anos | Palestrando na Python Brasil 2018 | :brazil: | - |
-| June 5 | [Technology Radar Vol.18](https://www.facebook.com/events/168675120465103/) | [Google Cloud Platform](https://speakerdeck.com/danicat/techradar-vol-dot-18-google-cloud-platform?slide=1) | :brazil: | - |
-| May 10 | [TEDx Niterói](https://tedxniteroi.com) | Não gaste energia para tentar ser quem você não é | :brazil: | [here](https://youtu.be/bbQzftKrIec) |
-| March 24 | [Women Techmakers IWD'18 Belo Horizonte](https://www.womentechmakers.com/iwd18) | Spotlight Talk | :brazil: | - |
-| March 23 | WTM Leads Summit Brazil | Orientação Sexual e Identidade de Gênero | :brazil: | - |
-| March 1-3 | [Lesbians Who Tech + Allies San Francisco](https://lesbianswhotech.org/sanfrancisco2018/) | [Overcoming Impostor Syndrome](https://www.slideshare.net/DanielaPetruzalek/overcoming-impostor-syndrome-89548007) | :us: | - |
-| January 11 | [GDG Porto Alegre 2018-1](https://www.meetup.com/GDG-Porto-Alegre/events/245664824/) | [Ready to Go: Uma Introdução Prática a Linguagem Go](https://github.com/danicat/ready2go) | :brazil: | - |
+| Date           | Event          | Title / Slide Deck | Video  |
+|----------------|----------------|--------------------|--------|
+| August 3 | [Gophercon UK 2018](https://www.golanguk.com/) | The Best Feature of Go :us: | - |
+| July 13 | [FISL18](http://fisl18.softwarelivre.org/index.php/en/) | Big Data com Apache Spark :brazil: | - |
+| June 30 | [RSJS 2018](https://braziljs.org/eventos/rsjs-2018/) | [10 Motivos para o JS Alegrar o seu Dia](https://docs.google.com/presentation/d/1h_y4hwFfMY6Tuy42V5d87tJrGqpED_2qbSg8atO0eqI/edit?usp=sharing) :brazil: | - |
+| June 16 | Pyladies Especial 2 Anos | Palestrando na Python Brasil 2018 :brazil: | - |
+| June 5 | [Technology Radar Vol.18](https://www.facebook.com/events/168675120465103/) | [Google Cloud Platform](https://speakerdeck.com/danicat/techradar-vol-dot-18-google-cloud-platform?slide=1) :brazil: | - |
+| May 10 | [TEDx Niterói](https://tedxniteroi.com) | Não gaste energia para tentar ser quem você não é :brazil: | [here](https://youtu.be/bbQzftKrIec) |
+| March 24 | [Women Techmakers IWD'18 Belo Horizonte](https://www.womentechmakers.com/iwd18) | Spotlight Talk :brazil: | - |
+| March 23 | WTM Leads Summit Brazil | Orientação Sexual e Identidade de Gênero :brazil: | - |
+| March 1-3 | [Lesbians Who Tech + Allies San Francisco](https://lesbianswhotech.org/sanfrancisco2018/) | [Overcoming Impostor Syndrome](https://www.slideshare.net/DanielaPetruzalek/overcoming-impostor-syndrome-89548007) :us: | - |
+| January 11 | [GDG Porto Alegre 2018-1](https://www.meetup.com/GDG-Porto-Alegre/events/245664824/) | [Ready to Go: Uma Introdução Prática a Linguagem Go](https://github.com/danicat/ready2go) :brazil: | - |
 
 ### Organizer
 
