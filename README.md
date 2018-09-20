@@ -13,7 +13,7 @@ The events are organized in reverse chronological order.
 | October 19-21 | [Python Brasil 14](https://2018.pythonbrasil.org.br/) | TBD | - |
 | September 27-29 | [Gophercon Brasil 2018](https://2018.gopherconbr.org/) | The Best Feature of Go | - |
 | August 3 | [Gophercon UK 2018](https://www.golanguk.com/) | The Best Feature of Go :us: | - |
-| July 13 | [FISL18](http://fisl18.softwarelivre.org/index.php/en/) | Big Data com Apache Spark :brazil: | - |
+| July 13 | [FISL18](http://fisl18.softwarelivre.org/index.php/en/) | [Big Data com Apache Spark](https://docs.google.com/presentation/d/1wsOfAO6HihYk3sjPsP6CbmqMC25EGz_X4sBC5pn3828/edit?usp=sharing) :us: | - |
 | June 30 | [RSJS 2018](https://braziljs.org/eventos/rsjs-2018/) | [10 Motivos para o JS Alegrar o seu Dia](https://docs.google.com/presentation/d/1h_y4hwFfMY6Tuy42V5d87tJrGqpED_2qbSg8atO0eqI/edit?usp=sharing) :brazil: | - |
 | June 16 | Pyladies Especial 2 Anos | Palestrando na Python Brasil 2017 :brazil: | - |
 | June 14 | GDG Porto Alegre | Processando Dados com a Google Cloud | - |
