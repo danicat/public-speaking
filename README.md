@@ -10,9 +10,11 @@ The events are organized in reverse chronological order.
 
 | Date           | Event          | Title / Slide Deck | Video  |
 |----------------|----------------|--------------------|--------|
-| October 19-21 | [Python Brasil 14](https://2018.pythonbrasil.org.br/) | TBD | - |
-| September 27-29 | [Gophercon Brasil 2018](https://2018.gopherconbr.org/) | The Best Feature of Go | - |
-| August 3 | [Gophercon UK 2018](https://www.golanguk.com/) | The Best Feature of Go :us: | - |
+| November 17 | [GDG Devfest Maceió](https://devfest.gdgmaceio.org/) | [Construindo um Sistema de Recomendações na GCP](https://speakerdeck.com/danicat/construindo-um-sistema-de-recomendacoes-na-gcp) | - |
+| October 21 | [Python Brasil 14](https://2018.pythonbrasil.org.br/) | [Deploy de modelos em produção: chegou a hora do DataOps?](https://speakerdeck.com/danicat/dataops) | - |
+| October 19 | [Python Brasil 14](https://2018.pythonbrasil.org.br/) | [Keynote - Por uma vida mais Pythonica](https://speakerdeck.com/danicat/por-uma-vida-mais-pythonica-keynote-python-brasil-14) | - |
+| September 27-29 | [Gophercon Brasil 2018](https://2018.gopherconbr.org/) | [The Best Feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018) | - |
+| August 3 | [Gophercon UK 2018](https://www.golanguk.com/) | [The Best Feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018) :us: | - |
 | July 13 | [FISL18](http://fisl18.softwarelivre.org/index.php/en/) | [Big Data com Apache Spark](https://docs.google.com/presentation/d/1wsOfAO6HihYk3sjPsP6CbmqMC25EGz_X4sBC5pn3828/edit?usp=sharing) :us: | - |
 | June 30 | [RSJS 2018](https://braziljs.org/eventos/rsjs-2018/) | [10 Motivos para o JS Alegrar o seu Dia](https://docs.google.com/presentation/d/1h_y4hwFfMY6Tuy42V5d87tJrGqpED_2qbSg8atO0eqI/edit?usp=sharing) :brazil: | - |
 | June 16 | Pyladies Especial 2 Anos | Palestrando na Python Brasil 2017 :brazil: | - |
