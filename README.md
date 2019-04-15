@@ -4,6 +4,14 @@ The objective of this repo is to consolidate in a single place all my participat
 
 The events are organized in reverse chronological order.
 
+## 2019
+
+### Talks
+
+| Date           | Event          | Title / Slide Deck | Video  |
+|----------------|----------------|--------------------|--------|
+| April 12 | [GothamGo](https://gothamgo.com/) | Pac Man from Scratch | - |
+
 ## 2018
 
 ### Talks
