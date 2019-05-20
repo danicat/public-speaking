@@ -10,7 +10,8 @@ The events are organized in reverse chronological order.
 
 | Date           | Event          | Title / Slide Deck | Video  |
 |----------------|----------------|--------------------|--------|
-| April 12 | [GothamGo](https://gothamgo.com/) | Pac Man from Scratch | - |
+| May 15 | [Doxlon](https://www.meetup.com/DevOps-Exchange-London/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=r-ur2Go4-vU) |
+| April 12 | [GothamGo 2019](https://gothamgo.com/) | Pac Man from Scratch | - |
 
 ## 2018
 
