@@ -6,12 +6,22 @@ The events are organized in reverse chronological order.
 
 ## 2019
 
-### Talks
+### Future
 
-| Date           | Event          | Title / Slide Deck | Video  |
-|----------------|----------------|--------------------|--------|
-| May 15 | [Doxlon](https://www.meetup.com/DevOps-Exchange-London/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=r-ur2Go4-vU) |
-| April 12 | [GothamGo 2019](https://gothamgo.com/) | Pac Man from Scratch | - |
+| Date      | Event          | Talk | Video |
+|-----------|----------------|------|-------|
+| September 28th | [Gophercon Brazil](http://2019.gopherconbr.org/en/) | Go: Making CLI Applications Great Again | - |
+| August 23rd | [Gophercon UK](https://www.gophercon.co.uk/) | Fun With Pointers | - |
+| July 17th | [Go London User Group](https://www.meetup.com/Go-London-User-Group/) | Pac Man from Scratch | - |
+| July 5th  | [GoWayFest 3.0](https://goway.io/) | Pac Man from Scratch | - |
+
+
+### Past
+
+| Date     | Event          | Talk | Video |
+|----------|----------------|------|-------|
+| May 15   | [Doxlon](https://www.meetup.com/DevOps-Exchange-London/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=r-ur2Go4-vU) |
+| April 12 | [GothamGo 2019](https://gothamgo.com/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=GH0DlCKTppE) |
 
 ## 2018
 
@@ -22,7 +32,7 @@ The events are organized in reverse chronological order.
 | November 17 | [GDG Devfest Maceió](https://devfest.gdgmaceio.org/) | [Construindo um Sistema de Recomendações na GCP](https://speakerdeck.com/danicat/construindo-um-sistema-de-recomendacoes-na-gcp) | - |
 | October 21 | [Python Brasil 14](https://2018.pythonbrasil.org.br/) | [Deploy de modelos em produção: chegou a hora do DataOps?](https://speakerdeck.com/danicat/dataops) | - |
 | October 19 | [Python Brasil 14](https://2018.pythonbrasil.org.br/) | [Keynote - Por uma vida mais Pythonica](https://speakerdeck.com/danicat/por-uma-vida-mais-pythonica-keynote-python-brasil-14) | - |
-| September 27-29 | [Gophercon Brasil 2018](https://2018.gopherconbr.org/) | [The Best Feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018) | - |
+| September 27-29 | [Gophercon Brasil 2018](https://2018.gopherconbr.org/) | [The Best Feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018) :brazil: | [here](https://www.infoq.com/br/presentations/the-best-feature-of-go/) |
 | August 3 | [Gophercon UK 2018](https://www.golanguk.com/) | [The Best Feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018) :us: | - |
 | July 13 | [FISL18](http://fisl18.softwarelivre.org/index.php/en/) | [Big Data com Apache Spark](https://docs.google.com/presentation/d/1wsOfAO6HihYk3sjPsP6CbmqMC25EGz_X4sBC5pn3828/edit?usp=sharing) :us: | - |
 | June 30 | [RSJS 2018](https://braziljs.org/eventos/rsjs-2018/) | [10 Motivos para o JS Alegrar o seu Dia](https://docs.google.com/presentation/d/1h_y4hwFfMY6Tuy42V5d87tJrGqpED_2qbSg8atO0eqI/edit?usp=sharing) :brazil: | - |
