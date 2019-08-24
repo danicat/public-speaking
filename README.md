@@ -10,18 +10,19 @@ The events are organized in reverse chronological order.
 
 | Date      | Event          | Talk | Video |
 |-----------|----------------|------|-------|
-| September 28th | [Gophercon Brazil](http://2019.gopherconbr.org/en/) | Go: Making CLI Applications Great Again | - |
-| August 23rd | [Gophercon UK](https://www.gophercon.co.uk/) | Fun With Pointers | - |
-| July 17th | [Go London User Group](https://www.meetup.com/Go-London-User-Group/) | Pac Man from Scratch | - |
-| July 5th  | [GoWayFest 3.0](https://goway.io/) | Pac Man from Scratch | - |
+| ??? | Google Cloud Next London | ??? | - |
 
 
 ### Past
 
 | Date     | Event          | Talk | Video |
 |----------|----------------|------|-------|
-| May 15   | [Doxlon](https://www.meetup.com/DevOps-Exchange-London/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=r-ur2Go4-vU) |
-| April 12 | [GothamGo 2019](https://gothamgo.com/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=GH0DlCKTppE) |
+| August 23rd | [Gophercon UK](https://www.gophercon.co.uk/) | [Fun With Pointers](https://docs.google.com/presentation/d/e/2PACX-1vSVN5pXkK8CFimGIVqaUXpJxo0OUILbPMAMD1s0S1dZwXX-Z6lW9H5W7_rTAiDGacW2MSTpA0cnhZB_/pub?start=false&loop=false&delayms=3000) | - |
+| August 7th | [Venturi Meetup](https://www.meetup.com/Venturi-tech-meetup-networking-round-tables-events/events/263088653/) | [Go: Making Programming Great Again](https://docs.google.com/presentation/d/e/2PACX-1vSLjMNPcVRwNY-Os_D5_WqGWlti5jKjfx5cUZQq9jE0SvLrHZfBXeS6-jhCXXdwZxK5XfPB9L-1PAII/pub?start=false&loop=false&delayms=3000) | - |
+| July 17th | [Go London User Group](https://www.meetup.com/Go-London-User-Group/) | Pac Man from Scratch | [here](https://youtu.be/SM8LTMnB4x0) |
+| July 5th  | [GoWayFest 3.0](https://goway.io/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=0qvW4kIlS8I) |
+| May 15th   | [Doxlon](https://www.meetup.com/DevOps-Exchange-London/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=r-ur2Go4-vU) |
+| April 12th | [GothamGo 2019](https://gothamgo.com/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=GH0DlCKTppE) |
 
 ## 2018
 
