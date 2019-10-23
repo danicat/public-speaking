@@ -1,3 +1,5 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O716D82)
+
 # Danicat Event Calendar
 
 The objective of this repo is to consolidate in a single place all my participations at conferences, meetups and events in general.
