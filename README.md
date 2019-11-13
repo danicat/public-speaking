@@ -13,8 +13,6 @@ The events are organized in reverse chronological order.
 | Date      | Event          | Talk | Video |
 |-----------|----------------|------|-------|
 | November 21st | Google Cloud Next London | Pac Man from Scratch | - |
-| November 16th | Lesbians Who Tech London Summit 2019 | ??? | - |
-
 
 ### Past
 
