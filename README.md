@@ -4,15 +4,13 @@ The objective of this repo is to consolidate in a single place all my participat
 
 The events are organized in reverse chronological order.
 
-## 2019
-
-### 2020
+## 2020
 
 | Date      | Event          | Talk | Video |
 |-----------|----------------|------|-------|
 | May 6 | Qcon Sao Paulo | ??? | - |
 
-### 2019
+## 2019
 
 | Date     | Event          | Talk | Video |
 |----------|----------------|------|-------|
