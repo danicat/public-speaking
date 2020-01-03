@@ -1,5 +1,3 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O716D82)
-
 # Danicat Event Calendar
 
 The objective of this repo is to consolidate in a single place all my participations at conferences, meetups and events in general.
@@ -8,16 +6,17 @@ The events are organized in reverse chronological order.
 
 ## 2019
 
-### Future
+### 2020
 
 | Date      | Event          | Talk | Video |
 |-----------|----------------|------|-------|
-| November 21st | Google Cloud Next London | Pac Man from Scratch | - |
+| May 6 | Qcon Sao Paulo | ??? | - |
 
-### Past
+### 2019
 
 | Date     | Event          | Talk | Video |
 |----------|----------------|------|-------|
+| November 21st | Google Cloud Next London | Pac Man from Scratch | - |
 | August 23rd | [Gophercon UK](https://www.gophercon.co.uk/) | [Fun With Pointers](https://docs.google.com/presentation/d/e/2PACX-1vSVN5pXkK8CFimGIVqaUXpJxo0OUILbPMAMD1s0S1dZwXX-Z6lW9H5W7_rTAiDGacW2MSTpA0cnhZB_/pub?start=false&loop=false&delayms=3000) | [here](https://youtu.be/yEiaCx0fR9k) |
 | August 7th | [Venturi Meetup](https://www.meetup.com/Venturi-tech-meetup-networking-round-tables-events/events/263088653/) | [Go: Making Programming Great Again](https://docs.google.com/presentation/d/e/2PACX-1vSLjMNPcVRwNY-Os_D5_WqGWlti5jKjfx5cUZQq9jE0SvLrHZfBXeS6-jhCXXdwZxK5XfPB9L-1PAII/pub?start=false&loop=false&delayms=3000) | - |
 | July 17th | [Go London User Group](https://www.meetup.com/Go-London-User-Group/) | Pac Man from Scratch | [here](https://youtu.be/SM8LTMnB4x0) |
