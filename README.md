@@ -1,26 +1,38 @@
-# Danicat Event Calendar
+# Danicat's Public Speaking Resources
 
-The objective of this repo is to consolidate in a single place all my participations at conferences, meetups and events in general.
+Hi! I'm Daniela Petruzalek and this is my public speaking resources repository. Here you will find information about my past, present and future talks. If you are interested in having me speaking at your conference, see the instructions below.
 
-The events are organized in reverse chronological order.
+## Inviting me to speak at your conference
 
-## 2020
+My main interest areas are cloud computing (Google Cloud), back end development, Go, Python, data engineering, recommendation systems and game development, although almost everything technology-related is a fair game for me (except java! :)
 
-| Date      | Event          | Talk | Video |
-|-----------|----------------|------|-------|
-| May 6 | Qcon Sao Paulo | ??? | - |
+I can also speak about career, leadership and personal development.
 
-## 2019
+If you want me to speak at your conference please send your invitation to daniela.petruzalek@gmail.com.
 
-| Date     | Event          | Talk | Video |
-|----------|----------------|------|-------|
-| November 21st | Google Cloud Next London | Pac Man from Scratch | - |
-| August 23rd | [Gophercon UK](https://www.gophercon.co.uk/) | [Fun With Pointers](https://docs.google.com/presentation/d/e/2PACX-1vSVN5pXkK8CFimGIVqaUXpJxo0OUILbPMAMD1s0S1dZwXX-Z6lW9H5W7_rTAiDGacW2MSTpA0cnhZB_/pub?start=false&loop=false&delayms=3000) | [here](https://youtu.be/yEiaCx0fR9k) |
-| August 7th | [Venturi Meetup](https://www.meetup.com/Venturi-tech-meetup-networking-round-tables-events/events/263088653/) | [Go: Making Programming Great Again](https://docs.google.com/presentation/d/e/2PACX-1vSLjMNPcVRwNY-Os_D5_WqGWlti5jKjfx5cUZQq9jE0SvLrHZfBXeS6-jhCXXdwZxK5XfPB9L-1PAII/pub?start=false&loop=false&delayms=3000) | - |
-| July 17th | [Go London User Group](https://www.meetup.com/Go-London-User-Group/) | Pac Man from Scratch | [here](https://youtu.be/SM8LTMnB4x0) |
-| July 5th  | [GoWayFest 3.0](https://goway.io/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=0qvW4kIlS8I) |
-| May 15th   | [Doxlon](https://www.meetup.com/DevOps-Exchange-London/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=r-ur2Go4-vU) |
-| April 12th | [GothamGo 2019](https://gothamgo.com/) | Pac Man from Scratch | [here](https://www.youtube.com/watch?v=GH0DlCKTppE) |
+## Profile Picture
+
+![](profile.jpg)
+
+## Biography
+
+Daniela Petruzalek is an experienced IT professional with background in software engineering, consulting, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a TEDx speaker and guest speaker on the "Artificial Intelligence: Cloud and Edge Implementations" course at University of Oxford.
+
+## Next events
+
+1. Qcon Sao Paulo, MMOPG, Sao Paulo-SP, Brazil. 02-04/May/2020.
+
+## Past events
+
+1. AI: Cloud and Edge Implementations (University of Oxford), Data Engineering on GCP. 01/Feb/2020.
+1. Data Science for IOT Meetup, Data Engineering on GCP, London-UK. 30/Jan/2020.
+1. Google Cloud Next UK '19, Pac Man from Scratch, London-UK. 21/Nov/2019
+1. Gophercon UK, [Fun with Pointers](https://docs.google.com/presentation/d/e/2PACX-1vSVN5pXkK8CFimGIVqaUXpJxo0OUILbPMAMD1s0S1dZwXX-Z6lW9H5W7_rTAiDGacW2MSTpA0cnhZB_/pub?start=false&loop=false&delayms=3000), London-UK. 23/Aug/2019. ([video](https://youtu.be/yEiaCx0fR9k))
+1. Venturi Meetup, [Go: Making Programming Great Again](https://docs.google.com/presentation/d/e/2PACX-1vSLjMNPcVRwNY-Os_D5_WqGWlti5jKjfx5cUZQq9jE0SvLrHZfBXeS6-jhCXXdwZxK5XfPB9L-1PAII/pub?start=false&loop=false&delayms=3000), London-UK, 07/Aug/2019.
+1. London Gophers, Pac Man from Scratch, London-UK. 17/Jul/2019. ([video](https://youtu.be/SM8LTMnB4x0))
+1. GoWayFest 3.0, Pac Man from Scratch, Minsk, Belarus. 05/Jul/2019. ([video](https://www.youtube.com/watch?v=0qvW4kIlS8I))
+1. Doxlon, Pac Man from Scratch, London-UK. 15/May/2019. ([video](https://www.youtube.com/watch?v=r-ur2Go4-vU))
+1. GothamGo, Pac Man from Scratch, New York City-NY, USA. 12/Apr/2019. ([here](https://www.youtube.com/watch?v=GH0DlCKTppE))
 
 ## 2018
 
