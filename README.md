@@ -44,19 +44,16 @@ Daniela Petruzalek is an experienced IT professional with background in software
 1. Python Brasil 14, [Keynote - Por uma vida mais Pythonica](https://speakerdeck.com/danicat/por-uma-vida-mais-pythonica-keynote-python-brasil-14), Natal-RN, Brazil. 19/Oct/2018.
 1. Gophercon Brasil, [The Best Feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018), Florianopolis-SC, Brazil. 29/Sep/2018.
 1. Gophercon UK, [The Best Feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018), London-UK. 03/Aug/2018.
-
----
-
-| July 13 | [FISL18](http://fisl18.softwarelivre.org/index.php/en/) | [Big Data com Apache Spark](https://docs.google.com/presentation/d/1wsOfAO6HihYk3sjPsP6CbmqMC25EGz_X4sBC5pn3828/edit?usp=sharing) :us: | - |
-| June 30 | [RSJS 2018](https://braziljs.org/eventos/rsjs-2018/) | [10 Motivos para o JS Alegrar o seu Dia](https://docs.google.com/presentation/d/1h_y4hwFfMY6Tuy42V5d87tJrGqpED_2qbSg8atO0eqI/edit?usp=sharing) :brazil: | - |
-| June 16 | Pyladies Especial 2 Anos | Palestrando na Python Brasil 2017 :brazil: | - |
-| June 14 | GDG Porto Alegre | Processando Dados com a Google Cloud | - |
-| June 5 | [Technology Radar Vol.18](https://www.facebook.com/events/168675120465103/) | [Google Cloud Platform](https://speakerdeck.com/danicat/techradar-vol-dot-18-google-cloud-platform?slide=1) :brazil: | - |
-| May 10 | [TEDx Niterói](https://tedxniteroi.com) | Não gaste energia para tentar ser quem você não é :brazil: | [here](https://youtu.be/bbQzftKrIec) |
-| March 24 | [Women Techmakers IWD'18 Belo Horizonte](https://www.womentechmakers.com/iwd18) | Spotlight Talk :brazil: | - |
-| March 23 | WTM Leads Summit Brazil | Orientação Sexual e Identidade de Gênero :brazil: | - |
-| March 1-3 | [Lesbians Who Tech + Allies San Francisco](https://lesbianswhotech.org/sanfrancisco2018/) | [Overcoming Impostor Syndrome](https://www.slideshare.net/DanielaPetruzalek/overcoming-impostor-syndrome-89548007) :us: | - |
-| January 11 | [GDG Porto Alegre 2018-1](https://www.meetup.com/GDG-Porto-Alegre/events/245664824/) | [Ready to Go: Uma Introdução Prática a Linguagem Go](https://github.com/danicat/ready2go) :brazil: | - |
+1. FISL18, [Big Data com Apache Spark](https://docs.google.com/presentation/d/1wsOfAO6HihYk3sjPsP6CbmqMC25EGz_X4sBC5pn3828/edit?usp=sharing), Porto Alegre-RS, Brazil. 13/Jul/2018.
+1. RSJS 2018, [10 Motivos para o JS Alegrar o seu Dia](https://docs.google.com/presentation/d/1h_y4hwFfMY6Tuy42V5d87tJrGqpED_2qbSg8atO0eqI/edit?usp=sharing), Porto Alegre-RS, Brazil. 30/Jun/2018.
+1. PyLadies Especial 2 Anos, Palestrando na Python Brasil 2017, Porto Alegre-RS, Brazil. 16/Jun/2018.
+1. GDG Porto Alegre, Processando Dados com a Google Cloud, Porto Alegre-RS, Brazil. 14/Jun/2018.
+1. ThoughtWorks Technology Radar Vol.18, [Google Cloud Platform](https://speakerdeck.com/danicat/techradar-vol-dot-18-google-cloud-platform?slide=1), Porto Alegre-RS, Brazil. 05/Jun/2018.
+1. TEDx Niteroi, Não gaste energia para tentar ser quem você não é, Niteroi-RJ, Brazil. 10/May/2018. ([video](https://youtu.be/bbQzftKrIec))
+1. Women Techmakers IWD'18, Spotlight Talk, Belo Horizonte-MG, Brazil. 24/Mar/2018.
+1. WTM Leads Summit Brazil, Orientação Sexual e Identidade de Gênero, Belo Horizonte-MG, Brazil. 23/Mar/2018.
+1. Lesbians Who Tech San Francisco Summit, [Overcoming Impostor Syndrome](https://www.slideshare.net/DanielaPetruzalek/overcoming-impostor-syndrome-89548007), San Francisco-CA, USA. 03/Mar/2018.
+1. GDG Porto Alegre, [Ready to Go: Uma Introdução Prática a Linguagem Go](https://github.com/danicat/ready2go), Porto Alegre-RS, Brazil. 11/Jan/2018.
 
 ### Organizer
 
