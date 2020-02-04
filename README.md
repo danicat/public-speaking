@@ -62,31 +62,15 @@ Daniela Petruzalek is an experienced IT professional with background in software
 ### 2017
 
 1. GDG Devfest Recife, [Sistemas de Recomendação com Google Cloud Dataproc](https://speakerdeck.com/danicat/sistemas-de-recomendacao-com-google-dataproc), Recife-PE, Brazil. 09/Dec/2017.
+1. Gophercon Brasil, [Workshop] Ready to Go: Uma introdução prática a linguagem Go, Florianopolis-SC, Brazil. 19/Nov/2017.
 1. Gophercon Brasil, [Women Who Go: Promoting Diversity and Inclusion in the Go Community](https://speakerdeck.com/danicat/wwg-promoting-diversity-and-inclusion-in-the-go-community), Florianopolis-SC, Brazil. 18/Nov/2017.
+1. TDC Porto Alegre, Go language track organiser, Porto Alegre-RS, Brazil. 11/Nov/2017.
 1. Python Brasil 13, [Big Data com Apache Spark na Globo.com](https://www.slideshare.net/DanielaPetruzalek/big-data-com-apache-spark-na-globocom-80566202), Belo Horizonte-MG, Brazil. 06/Oct/2017. ([video](https://www.youtube.com/watch?v=7QUO6ZdQy1w))
-
----
-
-| October 3 | [GDG Porto Alegre](https://www.meetup.com/preview/GDG-Porto-Alegre/events/243399100) | [Google Cloud Platform: Um Portal para a Era do Machine Learning](https://www.slideshare.net/DanielaPetruzalek/google-cloud-platform-um-portal-para-a-era-do-machine-learning) :brazil: | - |
-| September 8-9 | [Hack Town 2017](http://hacktown.com.br/) | [Google Cloud Platform: Um Portal para a Era do Machine Learning](https://www.slideshare.net/DanielaPetruzalek/google-cloud-platform-um-portal-para-a-era-do-machine-learning) :brazil: | - |
-| August 10 | [GDG Porto Alegre](https://www.meetup.com/GDG-Porto-Alegre/events/241946465/) | [Google Cloud Dataproc](https://www.slideshare.net/DanielaPetruzalek/google-cloud-dataproc) :brazil: | - |
-| August 5 | [Google Launchpad Build Porto Alegre](https://events.withgoogle.com/google-launchpad-build-porto-alegre-05-de-agosto/) | [Google Cloud Platform](https://www.slideshare.net/DanielaPetruzalek/google-cloud-platform-78600049) :brazil: | - |
-| June 24 | [Caipyra](http://caipyra.python.org.br/) | [Big Data com Apache Spark na Globo.com](https://pt.slideshare.net/DanielaPetruzalek/big-data-com-apache-spark-na-globocom) :brazil: | - |
-| May 18 | [19o Encontro Locaweb](http://eventos.locaweb.com.br/eventos-anteriores/19o-encontro-locaweb-porto-alegre/) | Painel sobre Comunidades :brazil: | - |
-| February 10 | [Rails Girls Pelotas](http://railsgirls.com/pelotas.html) | [O que é o Rails Girls?](https://www.slideshare.net/DanielaPetruzalek/rails-girls-pelotas-2017) :brazil: | - |
-
-### Workshops
-
-| Date          | Event            | Title / Slide Deck |
-|---------------|------------------|--------------------|
-| November 19   | [Gophercon Brasil](https://2017.gopherconbr.org/) | Ready to Go: Uma introdução prática a linguagem Go :brazil: |
-| July 22       | [Women Who Go POA](https://www.meetup.com/Women-Who-Go-Porto-Alegre/events/240611900) | Tutorial and Mentorship :brazil: |
-
-### Organizer
-
-| Date        | Event            | Role  |
-|-------------|------------------|-------|
-| November 11 | [TDC Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2017/index.html#portoalegre) | Golang track organizer |
-| October 3   | [GDG Porto Alegre Meetup 2017-2](https://www.meetup.com/preview/GDG-Porto-Alegre/events/243399100) | Lead Organizer |
-| August 10   | [GDG Porto Alegre Meetup 2017-1](https://www.meetup.com/GDG-Porto-Alegre/events/241946465/) | Lead Organizer |
-| July 22     | [Women Who Go POA](https://www.meetup.com/Women-Who-Go-Porto-Alegre/events/240611900) | Lead Organizer |
+1. GDG Porto Alegre, [Google Cloud Platform: Um Portal para a Era do Machine Learning](https://www.slideshare.net/DanielaPetruzalek/google-cloud-platform-um-portal-para-a-era-do-machine-learning), Porto Alegre-RS, Brazil. 03/Oct/17.
+1. Hack Town 2017, [Google Cloud Platform: Um Portal para a Era do Machine Learning](https://www.slideshare.net/DanielaPetruzalek/google-cloud-platform-um-portal-para-a-era-do-machine-learning), Santa Rita do Sapucai-MG, Brazil. 08-09/Sep/17.
+1. GDG Porto Alegre, [Google Cloud Dataproc](https://www.slideshare.net/DanielaPetruzalek/google-cloud-dataproc), Porto Alegre-RS, Brazil. 10/Aug/2017.
+1. Google Launchpad Build, [Google Cloud Platform](https://www.slideshare.net/DanielaPetruzalek/google-cloud-platform-78600049), Porto Alegre-RS, Brazil. 05/Aug/2017.
+1. Women Who Go POA, [Workshop] Pac Man from Scratch, Porto Alegre-RS, Brazil. 22/Jul/2017.
+1. Caipyra, [Big Data com Apache Spark na Globo.com](https://pt.slideshare.net/DanielaPetruzalek/big-data-com-apache-spark-na-globocom), Ribeirao Preto-SP, Brazil. 24/Jun/2017.
+1. 19o Encontro Locaweb, Painel sobre Comunidades, Porto Alegre-RS, Brazil. 18/May/2017.
+1. Rails Girls Pelotas, [O que é o Rails Girls?](https://www.slideshare.net/DanielaPetruzalek/rails-girls-pelotas-2017), Pelotas-RS, Brazil. 10/Feb/17.
