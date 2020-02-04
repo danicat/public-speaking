@@ -26,6 +26,9 @@ Daniela Petruzalek is an experienced IT professional with background in software
 
 1. AI: Cloud and Edge Implementations (University of Oxford), Data Engineering on GCP. 01/Feb/2020.
 1. Data Science for IOT Meetup, Data Engineering on GCP, London-UK. 30/Jan/2020.
+
+### 2019
+
 1. Google Cloud Next UK '19, Pac Man from Scratch, London-UK. 21/Nov/2019
 1. Gophercon UK, [Fun with Pointers](https://docs.google.com/presentation/d/e/2PACX-1vSVN5pXkK8CFimGIVqaUXpJxo0OUILbPMAMD1s0S1dZwXX-Z6lW9H5W7_rTAiDGacW2MSTpA0cnhZB_/pub?start=false&loop=false&delayms=3000), London-UK. 23/Aug/2019. ([video](https://youtu.be/yEiaCx0fR9k))
 1. Venturi Meetup, [Go: Making Programming Great Again](https://docs.google.com/presentation/d/e/2PACX-1vSLjMNPcVRwNY-Os_D5_WqGWlti5jKjfx5cUZQq9jE0SvLrHZfBXeS6-jhCXXdwZxK5XfPB9L-1PAII/pub?start=false&loop=false&delayms=3000), London-UK, 07/Aug/2019.
@@ -34,17 +37,16 @@ Daniela Petruzalek is an experienced IT professional with background in software
 1. Doxlon, Pac Man from Scratch, London-UK. 15/May/2019. ([video](https://www.youtube.com/watch?v=r-ur2Go4-vU))
 1. GothamGo, Pac Man from Scratch, New York City-NY, USA. 12/Apr/2019. ([here](https://www.youtube.com/watch?v=GH0DlCKTppE))
 
-## 2018
+### 2018
 
-### Talks
+1. GDG Devfest Maceio, [Construindo um Sistema de Recomendações na GCP](https://speakerdeck.com/danicat/construindo-um-sistema-de-recomendacoes-na-gcp), Maceio-AL, Brazil. 17/Nov/2018.
+1. Python Brasil 14, [Deploy de modelos em produção: chegou a hora do DataOps?](https://speakerdeck.com/danicat/dataops), Natal-RN, Brazil. 21/Oct/2018.
+1. Python Brasil 14, [Keynote - Por uma vida mais Pythonica](https://speakerdeck.com/danicat/por-uma-vida-mais-pythonica-keynote-python-brasil-14), Natal-RN, Brazil. 19/Oct/2018.
+1. Gophercon Brasil, [The Best Feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018), Florianopolis-SC, Brazil. 29/Sep/2018.
+1. Gophercon UK, [The Best Feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018), London-UK. 03/Aug/2018.
 
-| Date           | Event          | Title / Slide Deck | Video  |
-|----------------|----------------|--------------------|--------|
-| November 17 | [GDG Devfest Maceió](https://devfest.gdgmaceio.org/) | [Construindo um Sistema de Recomendações na GCP](https://speakerdeck.com/danicat/construindo-um-sistema-de-recomendacoes-na-gcp) | - |
-| October 21 | [Python Brasil 14](https://2018.pythonbrasil.org.br/) | [Deploy de modelos em produção: chegou a hora do DataOps?](https://speakerdeck.com/danicat/dataops) | - |
-| October 19 | [Python Brasil 14](https://2018.pythonbrasil.org.br/) | [Keynote - Por uma vida mais Pythonica](https://speakerdeck.com/danicat/por-uma-vida-mais-pythonica-keynote-python-brasil-14) | - |
-| September 27-29 | [Gophercon Brasil 2018](https://2018.gopherconbr.org/) | [The Best Feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018) :brazil: | [here](https://www.infoq.com/br/presentations/the-best-feature-of-go/) |
-| August 3 | [Gophercon UK 2018](https://www.golanguk.com/) | [The Best Feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018) :us: | - |
+---
+
 | July 13 | [FISL18](http://fisl18.softwarelivre.org/index.php/en/) | [Big Data com Apache Spark](https://docs.google.com/presentation/d/1wsOfAO6HihYk3sjPsP6CbmqMC25EGz_X4sBC5pn3828/edit?usp=sharing) :us: | - |
 | June 30 | [RSJS 2018](https://braziljs.org/eventos/rsjs-2018/) | [10 Motivos para o JS Alegrar o seu Dia](https://docs.google.com/presentation/d/1h_y4hwFfMY6Tuy42V5d87tJrGqpED_2qbSg8atO0eqI/edit?usp=sharing) :brazil: | - |
 | June 16 | Pyladies Especial 2 Anos | Palestrando na Python Brasil 2017 :brazil: | - |
