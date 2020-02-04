@@ -61,11 +61,12 @@ Daniela Petruzalek is an experienced IT professional with background in software
 
 ### 2017
 
-| Date           | Event          | Title / Slide Deck | Video |
-|----------------|----------------|--------------------|-------|
-| December 9 | [GDG DevFest Recife](https://devfestxp.com/) | [Sistemas de Recomendação com Google Cloud Dataproc](https://speakerdeck.com/danicat/sistemas-de-recomendacao-com-google-dataproc) :brazil: | - |
-| November 17-19 | [Gophercon Brasil](https://2017.gopherconbr.org/) | [Women Who Go: Promoting Diversity and Inclusion in the Go Community](https://speakerdeck.com/danicat/wwg-promoting-diversity-and-inclusion-in-the-go-community) :us: | - |
-| October 6 | [PythonBrasil 2017](http://2017.pythonbrasil.org.br/) | [Big Data com Apache Spark na Globo.com](https://www.slideshare.net/DanielaPetruzalek/big-data-com-apache-spark-na-globocom-80566202) :brazil: | [here](https://www.youtube.com/watch?v=7QUO6ZdQy1w) |
+1. GDG Devfest Recife, [Sistemas de Recomendação com Google Cloud Dataproc](https://speakerdeck.com/danicat/sistemas-de-recomendacao-com-google-dataproc), Recife-PE, Brazil. 09/Dec/2017.
+1. Gophercon Brasil, [Women Who Go: Promoting Diversity and Inclusion in the Go Community](https://speakerdeck.com/danicat/wwg-promoting-diversity-and-inclusion-in-the-go-community), Florianopolis-SC, Brazil. 18/Nov/2017.
+1. Python Brasil 13, [Big Data com Apache Spark na Globo.com](https://www.slideshare.net/DanielaPetruzalek/big-data-com-apache-spark-na-globocom-80566202), Belo Horizonte-MG, Brazil. 06/Oct/2017. ([video](https://www.youtube.com/watch?v=7QUO6ZdQy1w))
+
+---
+
 | October 3 | [GDG Porto Alegre](https://www.meetup.com/preview/GDG-Porto-Alegre/events/243399100) | [Google Cloud Platform: Um Portal para a Era do Machine Learning](https://www.slideshare.net/DanielaPetruzalek/google-cloud-platform-um-portal-para-a-era-do-machine-learning) :brazil: | - |
 | September 8-9 | [Hack Town 2017](http://hacktown.com.br/) | [Google Cloud Platform: Um Portal para a Era do Machine Learning](https://www.slideshare.net/DanielaPetruzalek/google-cloud-platform-um-portal-para-a-era-do-machine-learning) :brazil: | - |
 | August 10 | [GDG Porto Alegre](https://www.meetup.com/GDG-Porto-Alegre/events/241946465/) | [Google Cloud Dataproc](https://www.slideshare.net/DanielaPetruzalek/google-cloud-dataproc) :brazil: | - |
