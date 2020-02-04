@@ -50,23 +50,16 @@ Daniela Petruzalek is an experienced IT professional with background in software
 1. GDG Porto Alegre, Processando Dados com a Google Cloud, Porto Alegre-RS, Brazil. 14/Jun/2018.
 1. ThoughtWorks Technology Radar Vol.18, [Google Cloud Platform](https://speakerdeck.com/danicat/techradar-vol-dot-18-google-cloud-platform?slide=1), Porto Alegre-RS, Brazil. 05/Jun/2018.
 1. TEDx Niteroi, Não gaste energia para tentar ser quem você não é, Niteroi-RJ, Brazil. 10/May/2018. ([video](https://youtu.be/bbQzftKrIec))
-1. Women Techmakers IWD'18, Spotlight Talk, Belo Horizonte-MG, Brazil. 24/Mar/2018.
+1. Women Techmakers IWD'18 Porto Alegre, Lead Organiser, Porto Alegre-RS, Brazil. 14/Apr/2018.
+1. Women Techmakers IWD'18 Belo Horizonte, Spotlight Talk, Belo Horizonte-MG, Brazil. 24/Mar/2018.
 1. WTM Leads Summit Brazil, Orientação Sexual e Identidade de Gênero, Belo Horizonte-MG, Brazil. 23/Mar/2018.
 1. Lesbians Who Tech San Francisco Summit, [Overcoming Impostor Syndrome](https://www.slideshare.net/DanielaPetruzalek/overcoming-impostor-syndrome-89548007), San Francisco-CA, USA. 03/Mar/2018.
+1. GDG Porto Alegre Cloud Study Jam, Organiser, Porto Alegre-RS, Brazil. 15/Feb/2018.
+1. GDG Porto Alegre Cloud Study Jam, Lead Organiser, Porto Alegre-RS, Brazil. 13/Feb/2018.
+1. GDG Porto Alegre 2018-1, Lead Organiser, Porto Alegre-RS, Brazil. 11/Jan/2018.
 1. GDG Porto Alegre, [Ready to Go: Uma Introdução Prática a Linguagem Go](https://github.com/danicat/ready2go), Porto Alegre-RS, Brazil. 11/Jan/2018.
 
-### Organizer
-
-| Date        | Event            | Role  |
-|-------------|------------------|-------|
-| April 14 | [WTM IWD'18 Porto Alegre](https://www.meetup.com/GDG-Porto-Alegre/events/248651233/) | Lead Organizer |
-| February 15 | [GDG Porto Alegre Cloud Study Jam](https://www.meetup.com/GDG-Porto-Alegre/events/247266147/) | Organizer |
-| February 13 | [GDG Porto Alegre Cloud Study Jam](https://www.meetup.com/GDG-Porto-Alegre/events/248205352/) | Lead Organizer |
-| January 11 | [GDG Porto Alegre 2018-1](https://www.meetup.com/GDG-Porto-Alegre/events/245664824/) | Lead Organizer |
-
-## 2017
-
-### Talks
+### 2017
 
 | Date           | Event          | Title / Slide Deck | Video |
 |----------------|----------------|--------------------|-------|
