@@ -14,9 +14,9 @@ If you want me to speak at your conference please send your invitation to daniel
 
 ![](profile.jpg)
 
-## Biography
+## Biography (99 words)
 
-Daniela Petruzalek is an experienced IT professional with background in software engineering, consulting, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional, TEDx speaker and guest speaker on the "Artificial Intelligence: Cloud and Edge Implementations" course at University of Oxford.
+Daniela Petruzalek is an experienced IT professional with background in software engineering, consulting, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional, TEDx speaker and guest speaker on the "Artificial Intelligence: Cloud and Edge Implementations" course at University of Oxford. On her spare time she contributes to open source, play video games and pet random cats on the streets.
 
 ## Next events
 
