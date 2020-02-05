@@ -30,7 +30,7 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 
 ## Biography 
 
-### Default (123 words)
+### Default (140 words)
 
 Daniela Petruzalek is an experienced IT professional with background in software engineering, consulting, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK.
 
@@ -39,6 +39,8 @@ Her specialisation is data engineering and back end development and she is recog
 As an active member of the developer community, she is often seen speaking at technical conferences on the subjects of Go, Python, GCP and data engineering, and also contributing to open source projects.
 
 She is currently a guest speaker on the course “Artificial Intelligence: Cloud and Edge Implementations” of the Department of Continued Education at University of Oxford.
+
+On her spare time she play (and build) video games and pet random cats on the streets.
 
 ### Minibio (99 words)
 
