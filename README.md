@@ -8,7 +8,7 @@ My main areas of interest are cloud computing (Google Cloud), back end developme
 
 I can also speak about career, leadership and personal development.
 
-If you want me to speak at your conference please send your invitation to daniela.petruzalek@gmail.com. Please make sure to include event name, website, date, location and if you cover travel expenses or not (if outside London, UK).
+If you want me to speak at your conference please raise a Request for Speaker issue on this repository or send your invitation to daniela.petruzalek@gmail.com. Please make sure to include event name, website, date, location and if you cover travel expenses or not (if outside London, UK).
 
 It is also good to have an idea of what kind of presentation you have in mind. If you want an original talk, you may want to have a look at the [past events](#past-events) session below to have an idea of what kind of talks I did before.
 
