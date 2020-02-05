@@ -8,7 +8,7 @@ My main interest areas are cloud computing (Google Cloud), back end development,
 
 I can also speak about career, leadership and personal development.
 
-If you want me to speak at your conference please send your invitation to daniela.petruzalek@gmail.com.
+If you want me to speak at your conference please send your invitation to daniela.petruzalek@gmail.com. Please make sure to include event name, date, location and if you cover travel expenses or not (if outside London, UK). 
 
 ## Profile Picture
 
@@ -26,7 +26,11 @@ She is currently a guest speaker on the course “Artificial Intelligence: Cloud
 
 ### Minibio (99 words)
 
-Daniela Petruzalek is an experienced IT professional with background in software engineering, consulting, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional, TEDx speaker and guest speaker on the "Artificial Intelligence: Cloud and Edge Implementations" course at University of Oxford. On her spare time she contributes to open source, play video games and pet random cats on the streets.
+Daniela Petruzalek is an experienced IT professional with background in software engineering, consulting, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional, TEDx speaker and guest speaker on the course "Artificial Intelligence: Cloud and Edge Implementations" at University of Oxford. On her spare time she contributes to open source, play video games and pet random cats on the streets.
+
+### Nanobio (47 words)
+
+Daniela Petruzalek is an experienced IT professional currently working as Tech Principal at ThoughtWorks UK. She's also a Google Developer Expert in Go and GCP, Google Cloud Certified Data Engineer, TEDx speaker and guest speaker on the course "AI: Cloud and Edge Implementations" at University of Oxford.
 
 ## Next events
 
