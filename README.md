@@ -4,7 +4,7 @@ Hi! I'm Daniela Petruzalek and this is my public speaking resources repository. 
 
 ## Inviting me to speak at your conference
 
-My main interest areas are cloud computing (Google Cloud), back end development, Go, Python, data engineering, recommendation systems and game development, although almost everything technology-related is fair game for me (except java! :)
+My main areas of interest are cloud computing (Google Cloud), back end development, Go, Python, data engineering, recommender systems and game development, although almost everything technology-related is fair game for me (except java! :)
 
 I can also speak about career, leadership and personal development.
 
