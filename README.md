@@ -4,17 +4,21 @@ Hi! I'm Daniela Petruzalek and this is my public speaking resources repository. 
 
 ## Inviting me to speak at your conference
 
-My main interest areas are cloud computing (Google Cloud), back end development, Go, Python, data engineering, recommendation systems and game development, although almost everything technology-related is a fair game for me (except java! :)
+My main interest areas are cloud computing (Google Cloud), back end development, Go, Python, data engineering, recommendation systems and game development, although almost everything technology-related is fair game for me (except java! :)
 
 I can also speak about career, leadership and personal development.
 
-If you want me to speak at your conference please send your invitation to daniela.petruzalek@gmail.com. Please make sure to include event name, date, location and if you cover travel expenses or not (if outside London, UK). 
+If you want me to speak at your conference please send your invitation to daniela.petruzalek@gmail.com. Please make sure to include event name, website, date, location and if you cover travel expenses or not (if outside London, UK).
+
+It is also good to have an idea of what kind of presentation you have in mind. If you want to see what kind of presentations I typically do please see the past events session below.
 
 ## Profile Picture
 
 ![](profile.jpg)
 
-## Biography (123 words)
+## Biography 
+
+### Default (123 words)
 
 Daniela Petruzalek is an experienced IT professional with background in software engineering, consulting, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK.
 
