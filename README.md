@@ -10,7 +10,19 @@ I can also speak about career, leadership and personal development.
 
 If you want me to speak at your conference please send your invitation to daniela.petruzalek@gmail.com. Please make sure to include event name, website, date, location and if you cover travel expenses or not (if outside London, UK).
 
-It is also good to have an idea of what kind of presentation you have in mind. If you want to see what kind of presentations I typically do please see the past events session below.
+It is also good to have an idea of what kind of presentation you have in mind. If you want an original talk, you may want to have a look at the [past events](#past-events) session below to have an idea of what kind of talks I did before.
+
+### Active talks as of February 2020
+
+1. Data Engineering on GCP
+1. [Fun with Pointers](https://www.papercall.io/talks/156975)
+1. [Pac Man from Scratch](https://www.papercall.io/talks/105388)
+1. [Go: Making Programming Great Again](https://www.papercall.io/talks/158299)
+
+### Talks under development
+
+1. MMOPG (provisory name) - Qcon SP 2020
+1. Fun with Slices
 
 ## Profile Picture
 
