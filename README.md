@@ -40,11 +40,11 @@ As an active member of the developer community, she is often seen speaking at te
 
 She is currently a guest speaker on the course “Artificial Intelligence: Cloud and Edge Implementations” of the Department of Continued Education at University of Oxford.
 
-On her spare time she play (and build) video games and pet random cats on the streets.
+On her spare time she plays (and build) video games and pets random cats on the streets.
 
 ### Minibio (99 words)
 
-Daniela Petruzalek is an experienced IT professional with background in software engineering, consulting, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional, TEDx speaker and guest speaker on the course "Artificial Intelligence: Cloud and Edge Implementations" at University of Oxford. On her spare time she contributes to open source, play video games and pet random cats on the streets.
+Daniela Petruzalek is an experienced IT professional with background in software engineering, consulting, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional, TEDx speaker and guest speaker on the course "Artificial Intelligence: Cloud and Edge Implementations" at University of Oxford. On her spare time she contributes to open source, plays video games and pets random cats on the streets.
 
 ### Nanobio (47 words)
 
