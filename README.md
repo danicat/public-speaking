@@ -21,7 +21,7 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 
 ### Talks under development
 
-1. MMOPG (provisory name) - Qcon SP 2020
+1. ??? - Qcon SP 2020
 1. Fun with Slices
 
 ## Profile Picture
@@ -52,7 +52,7 @@ Daniela Petruzalek is an experienced IT professional currently working as Tech P
 
 ## Next events
 
-1. Qcon Sao Paulo, MMOPG, Sao Paulo-SP, Brazil. 06/May/2020.
+1. Qcon Sao Paulo, MMOPG, Sao Paulo-SP, Brazil. 14-16 December 2020.
 
 ## Past events
 
