@@ -56,7 +56,7 @@ Daniela Petruzalek is an experienced IT professional currently working as Tech P
 
 ## Past events
 
-1. AI: Cloud and Edge Implementations (University of Oxford), Data Engineering on GCP. 01/Feb/2020.
+1. [AI: Cloud and Edge Implementations](https://www.conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations?code=O20C066H6Y) (University of Oxford), Data Engineering on GCP. 01/Feb/2020.
 1. Data Science for IOT Meetup, Data Engineering on GCP, London-UK. 30/Jan/2020.
 
 ### 2019
