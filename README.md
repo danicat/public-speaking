@@ -26,7 +26,7 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 
 ## Profile Picture
 
-![](profile.jpg)
+<img src="profile.jpg" width=50%/>
 
 ## Biography 
 
