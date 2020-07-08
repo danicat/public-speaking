@@ -12,7 +12,7 @@ If you want me to speak at your conference please raise a Request for Speaker is
 
 It is also good to have an idea of what kind of presentation you have in mind. If you want an original talk, you may want to have a look at the [past events](#past-events) session below to have an idea of what kind of talks I did before.
 
-### Active talks as of February 2020
+### Active talks as of July 2020
 
 1. Data Engineering on GCP
 1. [Fun with Pointers](https://www.papercall.io/talks/156975)
@@ -23,6 +23,7 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 
 1. ??? - Qcon SP 2020
 1. Fun with Slices
+1. Pac Man from Scratch 2.0
 
 ## Profile Picture
 
@@ -52,10 +53,14 @@ Daniela Petruzalek is an experienced IT professional currently working as Tech P
 
 ## Next events
 
+1. Golang Poland Meetup, 27 July 2020.
 1. Qcon Sao Paulo, MMOPG, Sao Paulo-SP, Brazil. 14-16 December 2020.
 
 ## Past events
 
+### 2020
+
+1. [Hipsters Ponto Tech Podcast](https://hipsters.tech/), PT-BR :brazil:, air date to be confirmed
 1. [AI: Cloud and Edge Implementations](https://www.conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations?code=O20C066H6Y) (University of Oxford), Data Engineering on GCP. 01/Feb/2020.
 1. Data Science for IOT Meetup, Data Engineering on GCP, London-UK. 30/Jan/2020.
 
