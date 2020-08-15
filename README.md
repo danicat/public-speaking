@@ -21,7 +21,6 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 
 ### Talks under development
 
-1. ??? - Qcon SP 2020
 1. Fun with Slices
 1. Pac Man from Scratch 2.0
 
@@ -53,14 +52,14 @@ Daniela Petruzalek is an experienced IT professional currently working as Tech P
 
 ## Next events
 
-1. Golang Poland Meetup, 27 July 2020.
-1. Qcon Sao Paulo, MMOPG, Sao Paulo-SP, Brazil. 14-16 December 2020.
+1. Gophercon, November 9th-14th.
 
 ## Past events
 
 ### 2020
 
-1. [Hipsters Ponto Tech Podcast](https://hipsters.tech/), PT-BR :brazil:, air date to be confirmed
+1. [Golang Poland Meetup](https://www.meetup.com/Golang-Poland/events/271689429/), Pac Man From Scratch, 27/Jul/2020
+1. [Hipsters Ponto Tech Podcast](https://hipsters.tech/), PT-BR :brazil:, 21/Jul/2020
 1. [AI: Cloud and Edge Implementations](https://www.conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations?code=O20C066H6Y) (University of Oxford), Data Engineering on GCP. 01/Feb/2020.
 1. Data Science for IOT Meetup, Data Engineering on GCP, London-UK. 30/Jan/2020.
 
