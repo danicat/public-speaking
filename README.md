@@ -15,6 +15,7 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 ### Active talks as of July 2020
 
 1. Data Engineering on GCP
+1. Apache Spark 101
 1. [Fun with Pointers](https://www.papercall.io/talks/156975)
 1. [Pac Man from Scratch](https://www.papercall.io/talks/105388)
 1. [Go: Making Programming Great Again](https://www.papercall.io/talks/158299)
