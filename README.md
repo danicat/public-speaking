@@ -31,21 +31,9 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 
 ## Biography 
 
-### Default (140 words)
-
-Daniela Petruzalek is an experienced IT professional with background in software engineering, consulting, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK.
-
-Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional and TEDx speaker.
-
-As an active member of the developer community, she is often seen speaking at technical conferences on the subjects of Go, Python, GCP and data engineering, and also contributing to open source projects.
-
-She is currently a guest speaker on the course “Artificial Intelligence: Cloud and Edge Implementations” of the Department of Continued Education at University of Oxford.
-
-On her spare time she plays (and build) video games and pets random cats on the streets.
-
 ### Minibio (99 words)
 
-Daniela Petruzalek is an experienced IT professional with background in software engineering, consulting, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional, TEDx speaker and guest speaker on the course "Artificial Intelligence: Cloud and Edge Implementations" at University of Oxford. On her spare time she contributes to open source, plays video games and pets random cats on the streets.
+Daniela Petruzalek is an experienced IT professional with a background in software engineering, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional, TEDx speaker and guest speaker on the course "Artificial Intelligence: Cloud and Edge Implementations" at University of Oxford. In her spare time she contributes to open source, plays video games and pets random cats on the streets.
 
 ### Nanobio (47 words)
 
@@ -53,12 +41,17 @@ Daniela Petruzalek is an experienced IT professional currently working as Tech P
 
 ## Next events
 
-1. Gophercon, November 9th-14th.
+1. TDC Recife Online, Apache Spark 101, 28/Oct/2020
+1. ODSC West, The Data Engineering Path, 30/Oct/2020
+2. CapiConf 2020, Apache Spark para Iniciantes, 20/Nov/2020
 
 ## Past events
 
 ### 2020
 
+1. DevFest BR 2020, Apache Spark 101, 18/Oct/2020
+1. DevFest UK&I 2020, Apache Spark 101, 17/Oct/2020
+1. ODSC Europe, The Data Engineering Path, 19/Sep/2020
 1. [Golang Poland Meetup](https://www.meetup.com/Golang-Poland/events/271689429/), Pac Man From Scratch, 27/Jul/2020
 1. [Hipsters Ponto Tech Podcast](https://hipsters.tech/), PT-BR :brazil:, 21/Jul/2020
 1. [AI: Cloud and Edge Implementations](https://www.conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations?code=O20C066H6Y) (University of Oxford), Data Engineering on GCP. 01/Feb/2020.
