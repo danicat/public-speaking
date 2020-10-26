@@ -12,8 +12,9 @@ If you want me to speak at your conference please raise a Request for Speaker is
 
 It is also good to have an idea of what kind of presentation you have in mind. If you want an original talk, you may want to have a look at the [past events](#past-events) session below to have an idea of what kind of talks I did before.
 
-### Active talks as of July 2020
+### Active talks as of November 2020
 
+1. The Data Engineering Path
 1. Data Engineering on GCP
 1. Apache Spark 101
 1. [Fun with Pointers](https://www.papercall.io/talks/156975)
