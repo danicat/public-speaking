@@ -50,7 +50,7 @@ Daniela Petruzalek is an experienced IT professional currently working as Tech P
 
 ### 2020
 
-1. [ODSC West](https://docs.google.com/presentation/d/e/2PACX-1vQZrXHu03U-3U8rh6C_19eXC_IxmD6HafJFjDstVR5QIEanx2BuynBjG759nGm1mXrC13jlFD3QQd01/pub?start=false&loop=false&delayms=3000), The Data Engineering Path, 30/Oct/2020
+1. ODSC West 2020, [The Data Engineering Path](https://docs.google.com/presentation/d/e/2PACX-1vQZrXHu03U-3U8rh6C_19eXC_IxmD6HafJFjDstVR5QIEanx2BuynBjG759nGm1mXrC13jlFD3QQd01/pub?start=false&loop=false&delayms=3000), 30/Oct/2020
 1. DevFest BR 2020, Apache Spark 101, 18/Oct/2020
 1. DevFest UK&I 2020, Apache Spark 101, 17/Oct/2020
 1. WTM Summit Latam, Lessons Learned while Building an International Career, 19/Sep/2020
