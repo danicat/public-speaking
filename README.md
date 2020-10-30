@@ -50,8 +50,10 @@ Daniela Petruzalek is an experienced IT professional currently working as Tech P
 
 ### 2020
 
+1. [ODSC West](https://docs.google.com/presentation/d/e/2PACX-1vQZrXHu03U-3U8rh6C_19eXC_IxmD6HafJFjDstVR5QIEanx2BuynBjG759nGm1mXrC13jlFD3QQd01/pub?start=false&loop=false&delayms=3000), The Data Engineering Path, 30/Oct/2020
 1. DevFest BR 2020, Apache Spark 101, 18/Oct/2020
 1. DevFest UK&I 2020, Apache Spark 101, 17/Oct/2020
+1. WTM Summit Latam, Lessons Learned while Building an International Career, 19/Sep/2020
 1. ODSC Europe, The Data Engineering Path, 19/Sep/2020
 1. [Golang Poland Meetup](https://www.meetup.com/Golang-Poland/events/271689429/), Pac Man From Scratch, 27/Jul/2020
 1. [Hipsters Ponto Tech Podcast](https://hipsters.tech/), PT-BR :brazil:, 21/Jul/2020
