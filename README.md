@@ -32,24 +32,21 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 
 ## Biography 
 
-### Minibio (99 words)
+### Minibio
 
-Daniela Petruzalek is an experienced IT professional with a background in software engineering, pre-sales and developer relations, currently working as Tech Principal at ThoughtWorks UK. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional, TEDx speaker and guest speaker on the course "Artificial Intelligence: Cloud and Edge Implementations" at University of Oxford. In her spare time she contributes to open source, plays video games and pets random cats on the streets.
-
-### Nanobio (47 words)
-
-Daniela Petruzalek is an experienced IT professional currently working as Tech Principal at ThoughtWorks UK. She's also a Google Developer Expert in Go and GCP, Google Cloud Certified Data Engineer, TEDx speaker and guest speaker on the course "AI: Cloud and Edge Implementations" at University of Oxford.
+Daniela Petruzalek is an experienced IT professional with a background in software engineering, pre-sales and developer relations, currently working as Lead Data Architect at J.P. Morgan Chase & Co. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional, TEDx speaker and guest speaker on the course "Artificial Intelligence: Cloud and Edge Implementations" at University of Oxford. In her spare time she contributes to open source, plays video games and pets random cats on the streets.
 
 ## Next events
 
-1. TDC Recife Online, Apache Spark 101, 28/Oct/2020
-1. ODSC West, The Data Engineering Path, 30/Oct/2020
-2. CapiConf 2020, Apache Spark para Iniciantes, 20/Nov/2020
+1. Gophercon 2021, Pac Man from Scratch (beginner's workshop). Dec/2021
 
 ## Past events
 
 ### 2020
 
+1. TDC Recife Online, Apache Spark 101, 28/Oct/2020
+1. ODSC West, The Data Engineering Path, 30/Oct/2020
+2. CapiConf 2020, Apache Spark para Iniciantes, 20/Nov/2020
 1. ODSC West 2020, [The Data Engineering Path](https://docs.google.com/presentation/d/e/2PACX-1vQZrXHu03U-3U8rh6C_19eXC_IxmD6HafJFjDstVR5QIEanx2BuynBjG759nGm1mXrC13jlFD3QQd01/pub?start=false&loop=false&delayms=3000), 30/Oct/2020
 1. DevFest BR 2020, Apache Spark 101, 18/Oct/2020
 1. DevFest UK&I 2020, Apache Spark 101, 17/Oct/2020
