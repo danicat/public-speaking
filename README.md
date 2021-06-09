@@ -14,17 +14,12 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 
 ### Active talks as of November 2020
 
-1. The Data Engineering Path
-1. Data Engineering on GCP
-1. Apache Spark 101
-1. [Fun with Pointers](https://www.papercall.io/talks/156975)
-1. [Pac Man from Scratch](https://www.papercall.io/talks/105388)
-1. [Go: Making Programming Great Again](https://www.papercall.io/talks/158299)
-
-### Talks under development
-
-1. Fun with Slices
-1. Pac Man from Scratch 2.0
+1. Getting Started with Open Source
+2. The Data Engineer Path
+3. GCP Data Products
+4. Apache Spark 101
+5. [Fun with Pointers](https://www.papercall.io/talks/156975)
+6. [Pac Man from Scratch](https://www.papercall.io/talks/105388)
 
 ## Profile Picture
 
@@ -39,6 +34,7 @@ Daniela Petruzalek is an experienced IT professional with a background in softwa
 ## Next events
 
 1. Gophercon 2021, Pac Man from Scratch (beginner's workshop). Dec/2021
+2. TDC Connections, [Getting Started With Open Source](https://docs.google.com/presentation/d/e/2PACX-1vTt7WKczeYxCUoLECjxeJ8lbU5g45OCqePb94K2ZlAXub5KEoZJW_w5ou2M9gu7v2OnxpEXfW06wMIo/pub?start=false&loop=false&delayms=3000), 09/Jun/2021
 
 ## Past events
 
