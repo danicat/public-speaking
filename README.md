@@ -34,16 +34,21 @@ Daniela Petruzalek is an experienced IT professional with a background in softwa
 ## Next events
 
 1. Gophercon 2021, Pac Man from Scratch (beginner's workshop). Dec/2021
-2. TDC Connections, [Getting Started With Open Source](https://docs.google.com/presentation/d/e/2PACX-1vTt7WKczeYxCUoLECjxeJ8lbU5g45OCqePb94K2ZlAXub5KEoZJW_w5ou2M9gu7v2OnxpEXfW06wMIo/pub?start=false&loop=false&delayms=3000), 09/Jun/2021
+
 
 ## Past events
 
+### 2021
+
+1. ODSC Europe, [Keep it Simple! How to talk to executives in an effective way](https://docs.google.com/presentation/d/e/2PACX-1vQPez49QVdIhhMWkK_g9dzsN4nmBNTuuG7mWDxwivOiG_TNayLDMbtEt_4s54JXUxyEhd8blMfgNYt0/pub?start=false&loop=false&delayms=3000), 10/Jun/2021
+2. TDC Connections, [Getting Started With Open Source](https://docs.google.com/presentation/d/e/2PACX-1vTt7WKczeYxCUoLECjxeJ8lbU5g45OCqePb94K2ZlAXub5KEoZJW_w5ou2M9gu7v2OnxpEXfW06wMIo/pub?start=false&loop=false&delayms=3000), 09/Jun/2021
+
 ### 2020
 
-1. TDC Recife Online, Apache Spark 101, 28/Oct/2020
+1. CapiConf 2020, Apache Spark para Iniciantes, 20/Nov/2020
 1. ODSC West, The Data Engineering Path, 30/Oct/2020
-2. CapiConf 2020, Apache Spark para Iniciantes, 20/Nov/2020
 1. ODSC West 2020, [The Data Engineering Path](https://docs.google.com/presentation/d/e/2PACX-1vQZrXHu03U-3U8rh6C_19eXC_IxmD6HafJFjDstVR5QIEanx2BuynBjG759nGm1mXrC13jlFD3QQd01/pub?start=false&loop=false&delayms=3000), 30/Oct/2020
+1. TDC Recife Online, Apache Spark 101, 28/Oct/2020
 1. DevFest BR 2020, Apache Spark 101, 18/Oct/2020
 1. DevFest UK&I 2020, Apache Spark 101, 17/Oct/2020
 1. WTM Summit Latam, Lessons Learned while Building an International Career, 19/Sep/2020
