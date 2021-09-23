@@ -8,11 +8,11 @@ My main areas of interest are cloud computing (Google Cloud), back end developme
 
 I can also speak about career, leadership and personal development.
 
-If you want me to speak at your conference please raise a Request for Speaker issue on this repository or send your invitation to daniela.petruzalek@gmail.com. Please make sure to include event name, website, date, location and if you cover travel expenses or not (if outside London, UK).
+If you want me to speak at your conference please raise a Request for Speaker issue on this repository or send your invitation to daniela.petruzalek@gmail.com. Please make sure to include event name, website, date, location and if its a closed event or a community event.
 
 It is also good to have an idea of what kind of presentation you have in mind. If you want an original talk, you may want to have a look at the [past events](#past-events) session below to have an idea of what kind of talks I did before.
 
-### Active talks as of November 2020
+### Active talks as of September 2021
 
 1. Getting Started with Open Source
 2. The Data Engineer Path
@@ -33,8 +33,7 @@ Daniela Petruzalek is an experienced IT professional with background in software
 
 ## Next events
 
-1. Gophercon 2022, Pac Man from Scratch (beginner's workshop). Dec/2022
-
+1. Gophercon 2021, Pac Man from Scratch (beginner's workshop). Dec/2021
 
 ## Past events
 
