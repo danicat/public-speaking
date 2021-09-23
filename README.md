@@ -29,11 +29,11 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 
 ### Minibio
 
-Daniela Petruzalek is an experienced IT professional with a background in software engineering, pre-sales and developer relations, currently working as Lead Data Architect at J.P. Morgan Chase & Co. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional, TEDx speaker and guest speaker on the course "Artificial Intelligence: Cloud and Edge Implementations" at University of Oxford. In her spare time she contributes to open source, plays video games and pets random cats on the streets.
+Daniela Petruzalek is an experienced IT professional with background in software engineering, pre-sales and developer relations, currently Product Owner at J.P. Morgan Chase & Co. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional and TEDx speaker. In her spare time she contributes to open source, plays video games and pets random cats on the streets.
 
 ## Next events
 
-1. Gophercon 2021, Pac Man from Scratch (beginner's workshop). Dec/2021
+1. Gophercon 2022, Pac Man from Scratch (beginner's workshop). Dec/2022
 
 
 ## Past events
