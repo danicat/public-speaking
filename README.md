@@ -12,7 +12,7 @@ If you want me to speak at your conference please raise a Request for Speaker is
 
 It is also good to have an idea of what kind of presentation you have in mind. If you want an original talk, you may want to have a look at the [past events](#past-events) session below to have an idea of what kind of talks I did before.
 
-### Active talks as of September 2021
+### Active talks as of January 2022
 
 1. Getting Started with Open Source
 2. The Data Engineer Path
@@ -33,14 +33,17 @@ Daniela Petruzalek is an experienced IT professional with background in software
 
 ## Next events
 
-1. Gophercon 2021, Pac Man from Scratch (beginner's workshop). Dec/2021
+No events planned
 
 ## Past events
 
 ### 2021
 
-1. ODSC Europe, [Keep it Simple! How to talk to executives in an effective way](https://docs.google.com/presentation/d/e/2PACX-1vQPez49QVdIhhMWkK_g9dzsN4nmBNTuuG7mWDxwivOiG_TNayLDMbtEt_4s54JXUxyEhd8blMfgNYt0/pub?start=false&loop=false&delayms=3000), 10/Jun/2021
-2. TDC Connections, [Getting Started With Open Source](https://docs.google.com/presentation/d/e/2PACX-1vTt7WKczeYxCUoLECjxeJ8lbU5g45OCqePb94K2ZlAXub5KEoZJW_w5ou2M9gu7v2OnxpEXfW06wMIo/pub?start=false&loop=false&delayms=3000), 09/Jun/2021
+1. Govircon 2021, Pac Man from Scratch (beginner's workshop). Dec/2021
+2. DevFest Brasil 2021, [Comunicação: a Chave para uma Carreira de Sucesso?](https://docs.google.com/presentation/d/e/2PACX-1vQHlp3DZ-veelyTEoLtpamVPOtV9FDVAu4MqYARYfIiKt-x0aNtN_4E6sR1bQNKKpPhb-Py4uk917cF/pub?start=false&loop=false&delayms=3000). 07/Nov/2021
+3. Gophercon UK 2021, [Building an Indie Game in Go](https://docs.google.com/presentation/d/e/2PACX-1vSCNhtN2XyTvRgFZAF5LDnNNcNbZE8NLrVo0IOXStXJ-WGL9AzWJfHMfRHyHTsp4F6rqcVCnmQnsyYN/pub?start=false&loop=false&delayms=3000). 25/Oct/2021
+4. ODSC Europe, [Keep it Simple! How to talk to executives in an effective way](https://docs.google.com/presentation/d/e/2PACX-1vQPez49QVdIhhMWkK_g9dzsN4nmBNTuuG7mWDxwivOiG_TNayLDMbtEt_4s54JXUxyEhd8blMfgNYt0/pub?start=false&loop=false&delayms=3000), 10/Jun/2021
+5. TDC Connections, [Getting Started With Open Source](https://docs.google.com/presentation/d/e/2PACX-1vTt7WKczeYxCUoLECjxeJ8lbU5g45OCqePb94K2ZlAXub5KEoZJW_w5ou2M9gu7v2OnxpEXfW06wMIo/pub?start=false&loop=false&delayms=3000), 09/Jun/2021
 
 ### 2020
 
