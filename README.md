@@ -37,6 +37,12 @@ No events planned
 
 ## Past events
 
+### 2023
+
+1. Women Who Go London, Production-ready Hello World
+1. Gophercon UK 2023, Fun with Generics
+1. GoCon Japan, Fun with Slices
+
 ### 2021
 
 1. Govircon 2021, Pac Man from Scratch (beginner's workshop). Dec/2021
