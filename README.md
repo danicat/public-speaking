@@ -4,22 +4,11 @@ Hi! I'm Daniela Petruzalek and this is my public speaking resources repository. 
 
 ## Inviting me to speak at your conference
 
-My main areas of interest are cloud computing (Google Cloud), back end development, Go, Python, data engineering, recommender systems and game development, although almost everything technology-related is fair game for me (except java! :)
+My main areas of interest are cloud computing (Google Cloud), back end development, Go, Python, data engineering, recommender systems and game development. I can also speak about career, leadership and personal development.
 
-I can also speak about career, leadership and personal development.
-
-If you want me to speak at your conference please raise a Request for Speaker issue on this repository or send your invitation to daniela.petruzalek@gmail.com. Please make sure to include event name, website, date, location and if its a closed event or a community event.
+If you want me to speak at your conference please send your invitation to daniela.petruzalek@gmail.com. Please make sure to include event name, website, date, location and if its a closed event or a community event.
 
 It is also good to have an idea of what kind of presentation you have in mind. If you want an original talk, you may want to have a look at the [past events](#past-events) session below to have an idea of what kind of talks I did before.
-
-### Active talks as of January 2022
-
-1. Getting Started with Open Source
-2. The Data Engineer Path
-3. GCP Data Products
-4. Apache Spark 101
-5. [Fun with Pointers](https://www.papercall.io/talks/156975)
-6. [Pac Man from Scratch](https://www.papercall.io/talks/105388)
 
 ## Profile Picture
 
@@ -31,17 +20,18 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 
 Daniela Petruzalek is an experienced IT professional with background in software engineering, pre-sales and developer relations, currently Executive Director at J.P. Morgan Chase & Co. Her specialisation is data engineering and back end development and she is recognised by Google as a Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional and TEDx speaker. In her spare time she contributes to open source, plays video games and pets random cats on the streets.
 
-## Next events
-
-No events planned
-
 ## Past events
+
+### 2024
+
+1. Gophercon UK, [Production-ready Hello World!](https://docs.google.com/presentation/d/1zkAvvb1jP2qhlOor4ka_W2EEv-f7rX_kgIWr-v1maC4/pub?start=false&loop=false&delayms=3000). Aug/2024
+1. Gophercon, [Who Tests The Tests?](https://github.com/gophercon/2024-talks/tree/main/DanielaPetruzalek-WhoTestsTheTests) Jul/2024
 
 ### 2023
 
-1. Women Who Go London, Production-ready Hello World
-1. Gophercon UK 2023, Fun with Generics
-1. GoCon Japan, Fun with Slices
+1. Women Who Go London, [Production-ready Hello World](https://docs.google.com/presentation/d/1uPiL5rxLqRDn6uQqGGm5FLEA7lyuNkcs1TsSfmBBcYQ/pub?start=false&loop=false&delayms=3000)
+1. Gophercon UK 2023, [Fun with Generics](https://docs.google.com/presentation/d/1bpuzlhJ0yA9mNYkyk24fsSYnDlvjmCXSXtAenpBz7-8/pub?start=false&loop=false&delayms=3000).
+1. GoConference Japan, [Fun with Slices](https://docs.google.com/presentation/d/1iCbxw6X-fv92ec_ANCmtFLAcomcpyHbIDTmDqz6kL9w/pub?start=false&loop=false&delayms=3000).
 
 ### 2021
 
