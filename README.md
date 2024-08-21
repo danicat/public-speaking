@@ -29,9 +29,9 @@ Daniela Petruzalek is an experienced IT professional with background in software
 
 ### 2023
 
-1. Women Who Go London, [Production-ready Hello World](https://docs.google.com/presentation/d/1uPiL5rxLqRDn6uQqGGm5FLEA7lyuNkcs1TsSfmBBcYQ/pub?start=false&loop=false&delayms=3000)
-1. Gophercon UK 2023, [Fun with Generics](https://docs.google.com/presentation/d/1bpuzlhJ0yA9mNYkyk24fsSYnDlvjmCXSXtAenpBz7-8/pub?start=false&loop=false&delayms=3000).
-1. GoConference Japan, [Fun with Slices](https://docs.google.com/presentation/d/1iCbxw6X-fv92ec_ANCmtFLAcomcpyHbIDTmDqz6kL9w/pub?start=false&loop=false&delayms=3000).
+1. Women Who Go London, [Production-ready Hello World](https://docs.google.com/presentation/d/1uPiL5rxLqRDn6uQqGGm5FLEA7lyuNkcs1TsSfmBBcYQ/pub?start=false&loop=false&delayms=3000). Sep/2023
+1. Gophercon UK 2023, [Fun with Generics](https://docs.google.com/presentation/d/1bpuzlhJ0yA9mNYkyk24fsSYnDlvjmCXSXtAenpBz7-8/pub?start=false&loop=false&delayms=3000). Aug/2023
+1. GoConference Japan, [Fun with Slices](https://docs.google.com/presentation/d/1iCbxw6X-fv92ec_ANCmtFLAcomcpyHbIDTmDqz6kL9w/pub?start=false&loop=false&delayms=3000). Jun/2023
 
 ### 2021
 
