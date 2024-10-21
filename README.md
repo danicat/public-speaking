@@ -24,6 +24,7 @@ Daniela Petruzalek is an experienced IT professional with background in software
 
 ### 2024
 
+1. London Gophers, [Who Tests The Tests?](https://github.com/danicat/gophercon2024) Oct/2024
 1. Gophercon UK, [Production-ready Hello World!](https://docs.google.com/presentation/d/1zkAvvb1jP2qhlOor4ka_W2EEv-f7rX_kgIWr-v1maC4/pub?start=false&loop=false&delayms=3000). Aug/2024
 1. Gophercon, [Who Tests The Tests?](https://github.com/gophercon/2024-talks/tree/main/DanielaPetruzalek-WhoTestsTheTests) Jul/2024
 
