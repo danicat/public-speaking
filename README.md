@@ -1,5 +1,7 @@
 # Danicat's Public Speaking Resources
 
+> **Looking for my current talks and schedule?** This repository is an archive of earlier talks (2020 to 2024). For all current and upcoming talks, slides, and workshops, visit **[danicat.dev/events](https://danicat.dev/events/)**.
+
 Hi! I'm Daniela Petruzalek and this is my public speaking resources repository. Here you will find information about my past, present and future talks. If you are interested in having me speaking at your conference, see the instructions below.
 
 ## Inviting me to speak at your conference
@@ -18,7 +20,7 @@ It is also good to have an idea of what kind of presentation you have in mind. I
 
 ### Minibio
 
-Daniela Petruzalek is an experienced IT professional with background in software engineering, pre-sales and developer relations, currently a Senior Developer Relations Engineer at Google. Her specialisation is data engineering and back end development and she is a former Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer, Oracle Certified Professional and TEDx speaker. In her spare time she contributes to open source, plays video games and pets random cats on the streets.
+Daniela Petruzalek is an experienced IT professional with background in software engineering, pre-sales and developer relations, currently a Senior Developer Relations Engineer at Google. Her specialisation is data engineering and back end development and she is a former Google Developer Expert in Go and Google Cloud Platform. She's also a Google Cloud Certified Data Engineer and Oracle Certified Professional. In her spare time she contributes to open source, plays video games and pets random cats on the streets.
 
 ## Past events
 
